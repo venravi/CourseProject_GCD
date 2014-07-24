@@ -33,5 +33,6 @@ get confused.
 * <b>Script4</b>: this script appropriately labels the data set with descriptive variable names. Due to the length of the names, I used Camelcase. All are
  human readable characters (no ()s or -s), although some abbreviations are used because of the length of the names and the availability of the CodeBook.
  
- * <b>Script5</b>: this script leads to the dataSet.txt output (the tidy data set). It contains the average (mean) of each variable for each activity and
+* <b>Script5</b>: this script leads to the dataSet.txt output (the tidy data set). It contains the average (mean) of each variable for each activity and
 subject combination. The first column is the activity type, followed by the subject ID (six types of activities, each of them with 30 records).
+
